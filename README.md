@@ -19,6 +19,33 @@ I build digital products end-to-end — from landing pages and Telegram bots to 
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+[![Darkblade22's GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Darkblade22)](https://github.com/Darkblade22)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description |
@@ -33,12 +60,14 @@ I build digital products end-to-end — from landing pages and Telegram bots to 
 
 ---
 
-## 🧠 Tech Stack
+## 📈 GitHub Stats
 
-**Frontend:** JavaScript, HTML/CSS, React
-**Backend:** Node.js, Python
-**AI/Automation:** Telegram Bots, Local LLMs, Claude API, AI agents
-**Tools:** Git, GitHub, VS Code
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Darkblade22&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkblade22&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
+
+</div>
 
 ---
 
@@ -61,3 +90,4 @@ Growing a client funnel for local businesses (landing pages → sales), building
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
