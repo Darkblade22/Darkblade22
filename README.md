@@ -13,12 +13,12 @@
 
 <br /><br />
 
-<img src="assets/readme/sec-04.svg" width="100%" alt="02 Стек" />
+<img src="assets/readme/sec-02-stack.svg" width="100%" alt="02 Стек" />
 <img src="assets/readme/stack.svg" width="100%" alt="Стек для сайтов: React, TypeScript, JavaScript, Vite, HTML/CSS, Node.js, Express, Python, MongoDB, SQLite, Docker, Git, Vercel, Render." />
 
 <br /><br />
 
-<img src="assets/readme/sec-05.svg" width="100%" alt="03 Активность" />
+<img src="assets/readme/sec-03-activity.svg" width="100%" alt="03 Активность" />
 <img src="profile-3d-contrib/profile-darkblade.svg" width="100%" alt="3D-граф реальных контрибуций Darkblade22. Даты и статистика внутри изображения." />
 
 <img src="assets/readme/footer.svg" width="100%" alt="Darkblade — разработка сайтов и лендингов" />
