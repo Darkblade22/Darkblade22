@@ -18,6 +18,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Style contribution graph
+        run: python3 scripts/style_contributions.py
       - name: Commit & Push
         run: |
           git config user.name github-actions
